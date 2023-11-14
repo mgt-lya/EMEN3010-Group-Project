@@ -1,0 +1,4 @@
+repository "EMEN3010_Final_Project@mediocrelogarithm257@cloud"
+  path "/"
+    br "/main"
+    co "/main"
